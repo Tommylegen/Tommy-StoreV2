@@ -1,0 +1,20 @@
+{
+    "ownerNumber": "6289505054287@s.whatsapp.net", 
+    "ownerName": "Rajadev", 
+    "botName": "PATRICK-STORE",
+    "footer": "© BOTMD | 2022", 
+    "sessionName": "session", 
+    "pathimg": "./media/logo.jpg", 
+    "pathqris": "./media/qris.jpg",
+    "group": "https://chat.whatsapp.com/Ju69dEfjyKn5P6j1Zohk9A",
+    "yootube": "https://youtube.com/channel/UCxVf6aARpoMp8w6vh9MKARQ",
+    "igCookie": "csrftoken=Yj80cFn0zMn6svtMdvKTBcMzMwWPsQzx; sessionid=53767158422%3A4hXJOZ2NBfcF2f%3A10; ds_user_id=53767158422;",
+ 
+    "limitCount": 15,
+    "limitGame": 15,
+    "gamewaktu": 90,
+    "sticker": {
+        "packname": "Sticker",
+        "author": "@rajadev"
+    }
+}
